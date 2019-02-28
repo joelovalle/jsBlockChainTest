@@ -1,0 +1,31 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "ToDo List API Restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelovalle/todoListApi.git"
+  },
+  "keywords": [
+    "API",
+    "ToDo",
+    "Restful"
+  ],
+  "author": "JOH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelovalle/todoListApi/issues"
+  },
+  "homepage": "https://github.com/joelovalle/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  }
+}
